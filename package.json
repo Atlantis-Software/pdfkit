@@ -40,7 +40,7 @@
     "coffee-script": ">=1.0.1"
   },
   "scripts": {
-    "postinstall": "sh build-js.sh"
+    "postinstall": "bash build-js.sh"
   },
   "main": "js/document",
   "browserify": {
